@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xxx\\projects\\csharp\\libary\\KT4_main\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "c:\\Users\\xxx\\projects\\csharp\\libary\\KT4_main\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xxx\\projects\\csharp\\libary\\KT4_main\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "c:\\Users\\xxx\\projects\\csharp\\libary\\KT4_main\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xxx\\projects\\csharp\\libary\\KT4_main\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "c:\\Users\\xxx\\projects\\csharp\\libary\\KT4_main\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\xxx\\projects\\csharp\\libary\\KT4_main\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "c:\\Users\\xxx\\projects\\csharp\\libary\\KT4_main\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\xxx\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xxx\\projects\\csharp\\libary\\KT4_main\\ConsoleApp1\\obj\\",
+        "outputPath": "c:\\Users\\xxx\\projects\\csharp\\libary\\KT4_main\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\xxx\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\xxx\\projects\\csharp\\libary\\libary\\FileKT4libary\\FileKT4libary.csproj": {
-                "projectPath": "C:\\Users\\xxx\\projects\\csharp\\libary\\libary\\FileKT4libary\\FileKT4libary.csproj"
+              "c:\\Users\\xxx\\projects\\csharp\\libary\\libary\\FileKT4libary\\FileKT4libary.csproj": {
+                "projectPath": "c:\\Users\\xxx\\projects\\csharp\\libary\\libary\\FileKT4libary\\FileKT4libary.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\xxx\\projects\\csharp\\libary\\libary\\FileKT4libary\\FileKT4libary.csproj": {
+    "c:\\Users\\xxx\\projects\\csharp\\libary\\libary\\FileKT4libary\\FileKT4libary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xxx\\projects\\csharp\\libary\\libary\\FileKT4libary\\FileKT4libary.csproj",
+        "projectUniqueName": "c:\\Users\\xxx\\projects\\csharp\\libary\\libary\\FileKT4libary\\FileKT4libary.csproj",
         "projectName": "FileKT4libary",
-        "projectPath": "C:\\Users\\xxx\\projects\\csharp\\libary\\libary\\FileKT4libary\\FileKT4libary.csproj",
+        "projectPath": "c:\\Users\\xxx\\projects\\csharp\\libary\\libary\\FileKT4libary\\FileKT4libary.csproj",
         "packagesPath": "C:\\Users\\xxx\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xxx\\projects\\csharp\\libary\\libary\\FileKT4libary\\obj\\",
+        "outputPath": "c:\\Users\\xxx\\projects\\csharp\\libary\\libary\\FileKT4libary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\xxx\\AppData\\Roaming\\NuGet\\NuGet.Config"

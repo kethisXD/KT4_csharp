@@ -16,3 +16,4 @@ c:\Users\xxx\projects\csharp\libary\KT4_main\ConsoleApp1\bin\Debug\net8.0\FileKT
 c:\Users\xxx\projects\csharp\libary\KT4_main\ConsoleApp1\bin\Debug\net8.0\FileKT4libary.pdb
 c:\Users\xxx\projects\csharp\libary\KT4_main\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.AssemblyReference.cache
 c:\Users\xxx\projects\csharp\libary\KT4_main\ConsoleApp1\obj\Debug\net8.0\ConsoleA.CB28C8CC.Up2Date
+c:\Users\xxx\projects\csharp\libary\KT4_main\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
