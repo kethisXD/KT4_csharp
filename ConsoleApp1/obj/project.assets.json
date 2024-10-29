@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\xxx\\projects\\csharp\\libary\\KT4_main\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\xxx\\projects\\csharp\\libary\\KT4_main\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "c:\\Users\\xxx\\projects\\csharp\\libary\\KT4_main\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\Users\\xxx\\projects\\csharp\\libary\\KT4_main\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\xxx\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\xxx\\projects\\csharp\\libary\\KT4_main\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\xxx\\projects\\csharp\\libary\\KT4_main\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\xxx\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "c:\\Users\\xxx\\projects\\csharp\\libary\\libary\\FileKT4libary\\FileKT4libary.csproj": {
-              "projectPath": "c:\\Users\\xxx\\projects\\csharp\\libary\\libary\\FileKT4libary\\FileKT4libary.csproj"
+            "C:\\Users\\xxx\\projects\\csharp\\libary\\libary\\FileKT4libary\\FileKT4libary.csproj": {
+              "projectPath": "C:\\Users\\xxx\\projects\\csharp\\libary\\libary\\FileKT4libary\\FileKT4libary.csproj"
             }
           }
         }

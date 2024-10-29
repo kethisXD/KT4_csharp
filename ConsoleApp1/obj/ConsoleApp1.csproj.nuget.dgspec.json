@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "c:\\Users\\xxx\\projects\\csharp\\libary\\libary\\FileKT4libary\\FileKT4libary.csproj": {
-                "projectPath": "c:\\Users\\xxx\\projects\\csharp\\libary\\libary\\FileKT4libary\\FileKT4libary.csproj"
+              "C:\\Users\\xxx\\projects\\csharp\\libary\\libary\\FileKT4libary\\FileKT4libary.csproj": {
+                "projectPath": "C:\\Users\\xxx\\projects\\csharp\\libary\\libary\\FileKT4libary\\FileKT4libary.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "c:\\Users\\xxx\\projects\\csharp\\libary\\libary\\FileKT4libary\\FileKT4libary.csproj": {
+    "C:\\Users\\xxx\\projects\\csharp\\libary\\libary\\FileKT4libary\\FileKT4libary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\xxx\\projects\\csharp\\libary\\libary\\FileKT4libary\\FileKT4libary.csproj",
+        "projectUniqueName": "C:\\Users\\xxx\\projects\\csharp\\libary\\libary\\FileKT4libary\\FileKT4libary.csproj",
         "projectName": "FileKT4libary",
-        "projectPath": "c:\\Users\\xxx\\projects\\csharp\\libary\\libary\\FileKT4libary\\FileKT4libary.csproj",
+        "projectPath": "C:\\Users\\xxx\\projects\\csharp\\libary\\libary\\FileKT4libary\\FileKT4libary.csproj",
         "packagesPath": "C:\\Users\\xxx\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\xxx\\projects\\csharp\\libary\\libary\\FileKT4libary\\obj\\",
+        "outputPath": "C:\\Users\\xxx\\projects\\csharp\\libary\\libary\\FileKT4libary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\xxx\\AppData\\Roaming\\NuGet\\NuGet.Config"
